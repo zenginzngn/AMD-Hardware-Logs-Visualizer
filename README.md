@@ -8,7 +8,7 @@ This project is a Python script that reads log files in `.csv` format (AMD Adren
 * **Categorized Metrics:** Separate graph sections for CPU/GPU Temperature, Utilization Rates, Power Consumption, and System Memory.
 
 ## 📸 Screenshot
-![Application Screenshot](assets/ekran_goruntusu.png)
+![Application Screenshot](ekran_goruntusu.png)
 
 ## 🛠️ Installation and Usage
 
@@ -28,7 +28,7 @@ Bu proje, bilgisayar donanım performansını saniye saniye kaydeden `.csv` form
 * **Kategorize Edilmiş Metrikler:** CPU/GPU Sıcaklığı, Kullanım Oranları, Güç Tüketimi ve Sistem Belleği için ayrı grafik alanları.
 
 ## 📸 Ekran Görüntüsü
-![Uygulama Ekran Görüntüsü](assets/ekran_goruntusu.png)
+![Uygulama Ekran Görüntüsü](ekran_goruntusu.png)
 
 ## 🛠️ Kurulum ve Kullanım
 
