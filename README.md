@@ -13,7 +13,7 @@ This project is a Python script that reads log files in `.csv` format (AMD Adren
 ## 🛠️ Installation and Usage
 
 1. Clone the repository to your computer:
-2. Copy the log file recorded by AMD Software (C:\Users\"YOUR USERNAME"\AppData\Local\AMD\CN) to the repository folder and rename the file to “log.csv”.
+2. Copy the log file recorded by AMD Software (C:\Users\YOUR USERNAME\AppData\Local\AMD\CN) to the repository folder and rename the file to “log.csv”.
 3. Run the plot.py Python script.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -33,5 +33,5 @@ Bu proje, bilgisayar donanım performansını saniye saniye kaydeden `.csv` form
 ## 🛠️ Kurulum ve Kullanım
 
 1. Repoyu bilgisayarınıza klonlayın:
-2. AMD Software tarafından kaydedilen log dosyasını (C:\Users\"KULLANICI ADINIZ"\AppData\Local\AMD\CN) repo klasörüne kopyalayın ve dosya adını "log.csv" olarak güncelleyin.
+2. AMD Software tarafından kaydedilen log dosyasını (C:\Users\KULLANICI ADINIZ\AppData\Local\AMD\CN) repo klasörüne kopyalayın ve dosya adını "log.csv" olarak güncelleyin.
 3. plot.py phyton betiğini çalıştırın.
